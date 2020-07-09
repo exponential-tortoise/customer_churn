@@ -3,6 +3,9 @@
 **A Multi Layer perceptron model to predict customer churn in context of telecom industry ** 
 
    ![Screenshot](customerchurn.jpg)
+   <p align="center">
+  <img width="460" height="300" src="customerchurn.jpg">
+</p>
 
 **Context**
 
@@ -12,6 +15,18 @@ With the rapid development of telecommunication industry, the service providers 
 Content
 
 This data set contains customer level information for a telecom company. Various attributes related to the services used are recorded for each customer.
+
+**Features that have been taken to consideration to make the prediction**
+-AccountWeeks
+-ContractRenewal	
+-DataPlan
+-DataUsage
+-CustServCalls
+-DayMins
+-DayCalls
+-MonthlyCharge
+-OverageFee	
+-RoamMins
 
 
 Confusion Matrix : 
