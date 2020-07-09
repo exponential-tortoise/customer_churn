@@ -1,6 +1,6 @@
 # customer_churn
 
-**A Multi Layer perceptron model to predict customer churn in context of telecom industry ** 
+**A Multi Layer perceptron model to predict customer churn in context of telecom industry** 
 
 
    <p align="center">
