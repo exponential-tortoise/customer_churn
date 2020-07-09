@@ -2,9 +2,9 @@
 
 **A Multi Layer perceptron model to predict customer churn in context of telecom industry ** 
 
-   ![Screenshot](customerchurn.jpg)
+
    <p align="center">
-  <img width="460" height="300" src="customerchurn.jpg">
+  <img width="660" height="300" src="customerchurn.jpg">
 </p>
 
 **Context**
