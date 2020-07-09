@@ -4,7 +4,7 @@
 
 
    <p align="center">
-  <img width="660" height="560" src="customerchurn.jpg">
+  <img width="660" height="460" src="customerchurn.jpg">
 </p>
 
 **Context**
@@ -17,15 +17,25 @@ Content
 This data set contains customer level information for a telecom company. Various attributes related to the services used are recorded for each customer.
 
 **Features that have been taken to consideration to make the prediction**
+
 -AccountWeeks
--ContractRenewal	
+
+-ContractRenewal
+
 -DataPlan
+
 -DataUsage
+
 -CustServCalls
+
 -DayMins
+
 -DayCalls
+
 -MonthlyCharge
+
 -OverageFee	
+
 -RoamMins
 
 
