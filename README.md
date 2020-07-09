@@ -4,7 +4,7 @@
 
 
    <p align="center">
-  <img width="660" height="460" src="customerchurn.jpg">
+  <img width="600" height="390" src="customerchurn.jpg">
 </p>
 
 **Context**
